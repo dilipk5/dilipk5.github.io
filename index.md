@@ -4,6 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 <img src="https://tryhackme-badges.s3.amazonaws.com/D4rk3r.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/3031931"></script>
+
+
 
 
 [Link to another page](./another-page.html).
